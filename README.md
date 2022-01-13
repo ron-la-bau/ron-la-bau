@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ron-la-bau
+- 👀 I’m interested in data engineering, data science, nueral networks, sentiment and emotion analysis, and building systems in the cloud with open source software and cloud services.
+- 🌱 I’m currently learning about nueral networks and sentiment analysis.
+- 💞️ I’m looking to collaborate on python, airflow and spark projects.
